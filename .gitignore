@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Optional backup/editor junk
+*.swp
+*.swo
+*.bak
+
+# VS Code workspace settings
+.vscode/
